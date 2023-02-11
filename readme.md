@@ -44,8 +44,17 @@
 - **Тяжёлое утро с Holy.js**
 	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PL8sJahqnzh8JP76w7xi5XRxIZ0Kwd0oTq)
 
+- **Мы обречены**
+	- Ссылки: [YouTube](https://www.youtube.com/@myobrecheny), [Twitter](https://twitter.com/myobrecheny), [Telegram](https://t.me/myobrechenychannel), [Яндекс.Музыка](https://music.yandex.ru/album/10560587?dir=desc&activeTab=about)
+
+- **UfoStation**
+	- Ссылки: [Сайт](https://ufostation.tech/ru/podcast/) [Яндекс.Музыка](https://music.yandex.com/album/16437613?dir=desc&activeTab=about)
+
 - **Форточку открой**
 	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/23340787?activeTab=track-list&dir=desc)
+
+- **Machine Learning Podcast**
+	- Ссылки: [YouTube](https://www.youtube.com/@machinelearningpodcast9502), [Яндекс.Музыка](https://music.yandex.ru/album/9781458?dir=desc&activeTab=about)
 
 - **Для tech и этих**
 	- Ссылки: [Сайт](https://forthoseandthose.fireside.fm), [YouTube](https://www.youtube.com/playlist?list=PLOLysiZ_IMc0SXiyLK_fRETYNCR3uN05h), [Яндекс.Музыка](https://music.yandex.ru/album/22481935?activeTab=track-list&dir=desc)
@@ -65,14 +74,20 @@
 - **Разбор Полётов**
 	- Ссылки: [Сайт](https://razborpoletov.com/index.html), [Github](https://github.com/razbor-poletov), [Twitter](https://twitter.com/razbor_poletov), [Яндекс.Музыка](https://music.yandex.ru/album/6880225?dir=desc&activeTab=about)
 
+- **Дизайн Прост**
+	- Ссылки: [SoundCloud](https://soundcloud.com/qpzw2utwzag6), [Яндекс.Музыка](https://music.yandex.ru/album/8941958?dir=desc&activeTab=about)
+
 - **uWebDesign**
 	- Ссылки: [Сайт](https://uwebdesign.ru), [YouTube](https://www.youtube.com/uwebdesign), [Twitter](https://twitter.com/uwebdesgn), [Telegram](https://t.me/uwebdesign)
 
 - **LinkMeUp**
 	- Ссылки: [Сайт](https://linkmeup.ru/podcasts/), [Twitter](https://twitter.com/linkmeupru), [Telegram](https://t.me/linkmeup_podcast)
 
+- **ПИЛИМ, ТРЁМ**
+	- Ссылки: [YouTube](https://www.youtube.com/@pilimtrem), [Twitter](https://twitter.com/pilimtrem), [Яндекс.Музыка](https://music.yandex.ru/album/9502810?activeTab=track-list)
+
 - **Flutter Dev Podcast**
-	- Ссылки: [SoundCloud](https://soundcloud.com/flutterdevpodcast), [Сайт](), [Github](), [YouTube](), [Twitter](), [Telegram](), [Яндекс.Музыка](https://music.yandex.ru/album/11609672?dir=desc&activeTab=about)
+	- Ссылки: [SoundCloud](https://soundcloud.com/flutterdevpodcast),  [Яндекс.Музыка](https://music.yandex.ru/album/11609672?dir=desc&activeTab=about)
 
 - **Две столицы — Уютный подкаст IT панков**
 	- Ссылки: [Сайт](https://2capitals.space), [YouTube](https://www.youtube.com/c/2capitalsSpace), [Telegram](https://t.me/podcast2capitals), [Яндекс.Музыка](https://music.yandex.ru/album/6880541?activeTab=track-list)
@@ -86,5 +101,23 @@
 - **Серебряная чпуля**
 	- Ссылки: [Сайт](https://www.agileverse.ru/podcast), [YouTube](https://www.youtube.com/playlist?list=PLj32dnP2J3fE7MkracOWefQBxOiOW6u1e)
 
+- **Смени пароль!**
+	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/16065230?dir=desc&activeTab=about)
+
 - **#DroiderCast**
 	- Ссылки: [SoundCloud](), [Сайт](), [Github](), [YouTube](), [Twitter](), [Telegram](), [Яндекс.Музыка](https://music.yandex.ru/album/9048349?dir=desc&activeTab=about), [Podcastly](https://pdcstly.com/ru/podcast/droider-cast/26)
+
+- **Канадский лось и компания**
+	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/8797094?lang=ru&activeTab=track-list)
+
+- **Хочу в Геймдев**
+	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PLYEH4GKbMx6tYzVY76hf4C9xrD420VWLe), [Яндекс.Музыка](https://music.yandex.ru/album/9495544?dir=desc&activeTab=about)
+
+- **Дизайн такой**
+	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/7782689?dir=desc&activeTab=about)
+
+
+
+
+<!-- - **Шаблон**
+	- Ссылки: [SoundCloud](), [Сайт](), [YouTube](), [Twitter](), [Telegram](), [Яндекс.Музыка](), [Podcastly]() -->
