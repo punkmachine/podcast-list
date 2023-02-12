@@ -44,58 +44,37 @@
 
 - **Вроде в проде:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/vrode_v_prode) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@vrode_v_prode/videos) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/vrode_v_prode) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/19001255?activeTab=track-list&dir=desc)
 
-- **Базовый Блок**
-	- Ссылки: [Сайт](https://basicblockradio.com), [YouTube](https://www.youtube.com/@basicblockradio8179), [Twitter](https://twitter.com/basicblockradio), [Telegram](https://t.me/basicblockradio), [Яндекс.Музыка](https://music.yandex.ru/album/7638583?dir=desc&activeTab=about)
+- **Базовый Блок:** [![Сайт](/icons/site.png "Сайт Базовый Блок")](https://basicblockradio.com) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@basicblockradio8179) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/basicblockradio) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/basicblockradio) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7638583?dir=desc&activeTab=about)
 
-- **SDCast**
-	- Ссылки: [Сайт](https://sdcast.ksdaemon.ru), [YouTube](https://www.youtube.com/@sdcast146/playlists), [Twitter](https://twitter.com/SDCast_podcast), [Яндекс.Музыка](https://music.yandex.ru/album/6880277?activeTab=track-list)
+- **SDCast:** [![Сайт](/icons/site.png "Сайт SDCast")](https://sdcast.ksdaemon.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@sdcast146) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/SDCast_podcast) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/6880277?activeTab=track-list)
 
-- **Разбор Полётов**
-	- Ссылки: [Сайт](https://razborpoletov.com/index.html), [Github](https://github.com/razbor-poletov), [Twitter](https://twitter.com/razbor_poletov), [Яндекс.Музыка](https://music.yandex.ru/album/6880225?dir=desc&activeTab=about)
+- **Разбор Полётов:** [![Сайт](/icons/site.png "Сайт Разбор Полётов")](https://razborpoletov.com/index.html) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/razbor_poletov) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/6880225?dir=desc&activeTab=about)
 
-- **Дизайн Прост**
-	- Ссылки: [SoundCloud](https://soundcloud.com/qpzw2utwzag6), [Яндекс.Музыка](https://music.yandex.ru/album/8941958?dir=desc&activeTab=about)
+- **Дизайн Прост:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/qpzw2utwzag6) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/8941958?dir=desc&activeTab=about)
 
-- **uWebDesign**
-	- Ссылки: [Сайт](https://uwebdesign.ru), [YouTube](https://www.youtube.com/uwebdesign), [Twitter](https://twitter.com/uwebdesgn), [Telegram](https://t.me/uwebdesign)
+- **uWebDesign:** [![Сайт](/icons/site.png "Сайт uWebDesign")](https://uwebdesign.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/uwebdesign) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/uwebdesgn) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/uwebdesign)
 
-- **LinkMeUp**
-	- Ссылки: [Сайт](https://linkmeup.ru/podcasts/), [Twitter](https://twitter.com/linkmeupru), [Telegram](https://t.me/linkmeup_podcast)
+- **LinkMeUp:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@pilimtrem) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/pilimtrem) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/9502810?activeTab=track-list)
 
-- **ПИЛИМ, ТРЁМ**
-	- Ссылки: [YouTube](https://www.youtube.com/@pilimtrem), [Twitter](https://twitter.com/pilimtrem), [Яндекс.Музыка](https://music.yandex.ru/album/9502810?activeTab=track-list)
+- **Flutter Dev Podcast:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/flutterdevpodcast) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/11609672?dir=desc&activeTab=about)
 
-- **Flutter Dev Podcast**
-	- Ссылки: [SoundCloud](https://soundcloud.com/flutterdevpodcast),  [Яндекс.Музыка](https://music.yandex.ru/album/11609672?dir=desc&activeTab=about)
+- **Две столицы — Уютный подкаст IT панков:** [![Сайт](/icons/site.png "Сайт Две столицы — Уютный подкаст IT панков")](https://2capitals.space) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/c/2capitalsSpace) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/podcast2capitals) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/6880541?activeTab=track-list)
 
-- **Две столицы — Уютный подкаст IT панков**
-	- Ссылки: [Сайт](https://2capitals.space), [YouTube](https://www.youtube.com/c/2capitalsSpace), [Telegram](https://t.me/podcast2capitals), [Яндекс.Музыка](https://music.yandex.ru/album/6880541?activeTab=track-list)
+- **Новый подкаст 2 после правок doc:** [![Сайт](/icons/site.png "Сайт Новый подкаст 2 после правок doc")](https://newpodcast2.live) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@2doc971) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/11575744?dir=desc&activeTab=about)
 
-- **Новый подкаст 2 после правок doc**
-	- Ссылки: [Сайт](https://newpodcast2.live), [YouTube](https://www.youtube.com/@2doc971), [Яндекс.Музыка](https://music.yandex.ru/album/11575744?dir=desc&activeTab=about)
+- **Sebrant chatting:** [![Сайт](/icons/site.png "Сайт Sebrant chatting")](https://asebrant.libsyn.com) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLEmAXDBfXwdIdT11LJ5koetixBi_clxJf) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/asebrant)
 
-- **Sebrant chatting**
-	- Ссылки: [Сайт](https://asebrant.libsyn.com), [YouTube](https://www.youtube.com/playlist?list=PLEmAXDBfXwdIdT11LJ5koetixBi_clxJf), [Twitter](https://twitter.com/asebrant)
+- **Серебряная чпуля:** [![Сайт](/icons/site.png "Сайт Серебряная чпуля")](https://www.agileverse.ru/podcast) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLj32dnP2J3fE7MkracOWefQBxOiOW6u1e)
 
-- **Серебряная чпуля**
-	- Ссылки: [Сайт](https://www.agileverse.ru/podcast), [YouTube](https://www.youtube.com/playlist?list=PLj32dnP2J3fE7MkracOWefQBxOiOW6u1e)
+- **Смени пароль!:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/16065230?dir=desc&activeTab=about)
 
-- **Смени пароль!**
-	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/16065230?dir=desc&activeTab=about)
+- **#DroiderCast:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/8797094?lang=ru&activeTab=track-list)
 
-- **#DroiderCast**
-	- Ссылки: [SoundCloud](), [Сайт](), [Github](), [YouTube](), [Twitter](), [Telegram](), [Яндекс.Музыка](https://music.yandex.ru/album/9048349?dir=desc&activeTab=about), [Podcastly](https://pdcstly.com/ru/podcast/droider-cast/26)
+- **Хочу в Геймдев:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLYEH4GKbMx6tYzVY76hf4C9xrD420VWLe) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/9495544?dir=desc&activeTab=about)
 
-- **Канадский лось и компания**
-	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/8797094?lang=ru&activeTab=track-list)
-
-- **Хочу в Геймдев**
-	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PLYEH4GKbMx6tYzVY76hf4C9xrD420VWLe), [Яндекс.Музыка](https://music.yandex.ru/album/9495544?dir=desc&activeTab=about)
-
-- **Дизайн такой**
-	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/7782689?dir=desc&activeTab=about)
+- **Дизайн такой:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7782689?dir=desc&activeTab=about)
 
 
 
 <!-- - **Шаблон**
-	- Ссылки: [![SoundCloud](/icons/soundcloud.png "SoundCloud")](), [![Сайт](/icons/site.png "Сайт подкаста")](), [![YouTube](/icons/youtube.png "YouTube")](), [![Twitter](/icons/twitter.png "Twitter")](), [![Telegram](/icons/telegram.png "Telegram")](), [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](), [![Podcastly](icons/podcastly.png "Podcastly")]() -->
+	- Ссылки: [![SoundCloud](/icons/soundcloud.png "SoundCloud")](), [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
