@@ -2,26 +2,19 @@
 
 Список русскоязычных подкастов связанных с IT.
 
-- **Веб-стандарты**
-	- Ссылки: [SoundCloud](https://soundcloud.com/web-standards), [Сайт](https://web-standards.ru), [Github](https://github.com/web-standards-ru/podcast), [YouTube](https://www.youtube.com/@webstandards_ru), [Twitter](https://twitter.com/webstandards_ru)
+- **Веб-стандарты:** [![Сайт](/icons/site.png "Сайт web-standarts.ru")](https://web-standards.ru) [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/web-standards) [![GitHub](/icons/github.png "GitHub")](https://github.com/web-standards-ru/podcast) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@webstandards_ru) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/webstandards_ru)
 
-- **Frontend Weekend**
-	- Ссылки: [SoundCloud](https://soundcloud.com/frontend-weekend), [YouTube](https://www.youtube.com/@frontendweekend), [Twitter](https://twitter.com/frontendweekend)
+- **Frontend Weekend:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/frontend-weekend) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@frontendweekend) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/frontendweekend)
 
-- **Podlodka**
-	- Ссылки: [SoundCloud](https://soundcloud.com/podlodka), [Сайт](https://podlodka.io), [YouTube](https://www.youtube.com/PodlodkaShow), [Twitter](https://twitter.com/podlodkapodcast), [Telegram](https://t.me/podlodkanews), [Яндекс.Музыка](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about)
+- **Podlodka** [![Сайт](/icons/site.png "Сайт Podlodka")](https://podlodka.io) [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/podlodka) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/PodlodkaShow) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/podlodkapodcast) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/podlodkanews) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about)
 
-- **Код и кофе**
-	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PL3q8gXVayhpfk7fyIEZO7ee6ErCjnjoeJ), [Яндекс.Музыка](https://music.yandex.ru/album/10925348?activeTab=track-list)
+- **Код и кофе** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PL3q8gXVayhpfk7fyIEZO7ee6ErCjnjoeJ) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/10925348?activeTab=track-list)
 
-- **Шорткод**
-	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/11022487?dir=desc&activeTab=about)
+- **Шорткод** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/11022487?dir=desc&activeTab=about)
 
-- **IT-шниками не рождаются**
-	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PLBRXq5LaddfwwN7IUgdIBIwV4ix4Cs5Ms)
+- **IT-шниками не рождаются** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLBRXq5LaddfwwN7IUgdIBIwV4ix4Cs5Ms)
 
-- **Как делают игры**
-	- Ссылки: [Сайт](https://kdicast.com), [YouTube](https://www.youtube.com/c/kdicast), [Twitter](https://twitter.com/kdicast)
+- **Как делают игры** [![Сайт](/icons/site.png "Сайт Как делают игры")](https://kdicast.com) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/c/kdicast) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/kdicast)
 
 - **Kotelov podcast**
 	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PLTgv5HiIUQtJiQhzfJyd25tr8fQwE5AiT)
@@ -118,6 +111,5 @@
 
 
 
-
 <!-- - **Шаблон**
-	- Ссылки: [SoundCloud](), [Сайт](), [YouTube](), [Twitter](), [Telegram](), [Яндекс.Музыка](), [Podcastly]() -->
+	- Ссылки: [![SoundCloud](/icons/soundcloud.png "SoundCloud")](), [![Сайт](/icons/site.png "Сайт подкаста")](), [![YouTube](/icons/youtube.png "YouTube")](), [![Twitter](/icons/twitter.png "Twitter")](), [![Telegram](/icons/telegram.png "Telegram")](), [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](), [![Podcastly](icons/podcastly.png "Podcastly")]() -->
