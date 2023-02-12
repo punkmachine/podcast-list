@@ -16,47 +16,33 @@
 
 - **Как делают игры** [![Сайт](/icons/site.png "Сайт Как делают игры")](https://kdicast.com) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/c/kdicast) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/kdicast)
 
-- **Kotelov podcast**
-	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PLTgv5HiIUQtJiQhzfJyd25tr8fQwE5AiT)
+- **Kotelov podcast** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLTgv5HiIUQtJiQhzfJyd25tr8fQwE5AiT)
 
-- **Хабр Подкасты**
-	- Ссылки: [SoundCloud](https://soundcloud.com/habr-weekly), [Сайт](https://podcast.habr.com), [Яндекс.Музыка](https://music.yandex.ru/album/7600069?dir=desc&activeTab=about), [Podcastly](https://pdcstly.com/ru/podcast/habr-podkasty/890)
+- **Хабр Подкасты** [![Сайт](/icons/site.png "Сайт Хабр Подкасты")](https://podcast.habr.com) [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/habr-weekly) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7600069?dir=desc&activeTab=about) [![Podcastly](/icons/podcastly.png "Podcastly")](https://pdcstly.com/ru/podcast/habr-podkasty/890)
 
-- **АйТиБорода**
-	- Ссылки: [SoundCloud](https://soundcloud.com/itbeard), [YouTube](https://www.youtube.com/@itbeard)
+- **АйТиБорода** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/itbeard) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@itbeard)
 
-- **Радио T**
-	- Ссылки: [Сайт](https://radio-t.com), [Telegram](https://t.me/radio_t_podcast)
+- **Радио T** [![Сайт](/icons/site.png "Сайт Радио T")](https://radio-t.com) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/radio_t_podcast)
 
-- **CSSSR**
-	- Ссылки: [SoundCloud](https://soundcloud.com/csssr), [YouTube](https://www.youtube.com/@csssrpodcasts718), [Podcastly](https://pdcstly.com/ru/podcast/csssr/105117)
+- **CSSSR** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/csssr) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@csssrpodcasts718) [![Podcastly](/icons/podcastly.png "Podcastly")](https://pdcstly.com/ru/podcast/csssr/105117)
 
-- **Запуск завтра**
-	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/9294155?dir=desc&activeTab=about), [Podcastly](https://pdcstly.com/ru/podcast/zapusk-zavtra/888)
+- **Запуск завтра** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/9294155?dir=desc&activeTab=about) [![Podcastly](/icons/podcastly.png "Podcastly")](https://pdcstly.com/ru/podcast/zapusk-zavtra/888)
 
-- **Тяжёлое утро с Holy.js**
-	- Ссылки: [YouTube](https://www.youtube.com/playlist?list=PL8sJahqnzh8JP76w7xi5XRxIZ0Kwd0oTq)
+- **Тяжёлое утро с Holy.js** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PL8sJahqnzh8JP76w7xi5XRxIZ0Kwd0oTq)
 
-- **Мы обречены**
-	- Ссылки: [YouTube](https://www.youtube.com/@myobrecheny), [Twitter](https://twitter.com/myobrecheny), [Telegram](https://t.me/myobrechenychannel), [Яндекс.Музыка](https://music.yandex.ru/album/10560587?dir=desc&activeTab=about)
+- **Мы обречены** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@myobrecheny) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/myobrecheny) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/myobrechenychannel) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/10560587?dir=desc&activeTab=about)
 
-- **UfoStation**
-	- Ссылки: [Сайт](https://ufostation.tech/ru/podcast/) [Яндекс.Музыка](https://music.yandex.com/album/16437613?dir=desc&activeTab=about)
+- **UfoStation** [![Сайт](/icons/site.png "Сайт UfoStation")](https://ufostation.tech/ru/podcast/) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.com/album/16437613?dir=desc&activeTab=about)
 
-- **Форточку открой**
-	- Ссылки: [Яндекс.Музыка](https://music.yandex.ru/album/23340787?activeTab=track-list&dir=desc)
+- **Форточку открой** [![Сайт](/icons/site.png "Сайт Форточку открой")](https://ufostation.tech/ru/podcast/) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/23340787?activeTab=track-list&dir=desc)
 
-- **Machine Learning Podcast**
-	- Ссылки: [YouTube](https://www.youtube.com/@machinelearningpodcast9502), [Яндекс.Музыка](https://music.yandex.ru/album/9781458?dir=desc&activeTab=about)
+- **Machine Learning Podcast** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@machinelearningpodcast9502) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/9781458?dir=desc&activeTab=about)
 
-- **Для tech и этих**
-	- Ссылки: [Сайт](https://forthoseandthose.fireside.fm), [YouTube](https://www.youtube.com/playlist?list=PLOLysiZ_IMc0SXiyLK_fRETYNCR3uN05h), [Яндекс.Музыка](https://music.yandex.ru/album/22481935?activeTab=track-list&dir=desc)
+- **Для tech и этих** [![Сайт](/icons/site.png "Сайт Для tech и этих")](https://forthoseandthose.fireside.fm) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLOLysiZ_IMc0SXiyLK_fRETYNCR3uN05h) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/22481935?activeTab=track-list&dir=desc)
 
-- **Люди и код**
-	- Ссылки: [YouTube](https://www.youtube.com/@byskillboxmedia7275), [Яндекс.Музыка](https://music.yandex.ru/album/20602720?activeTab=track-list&dir=desc)
+- **Люди и код** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@byskillboxmedia7275) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/20602720?activeTab=track-list&dir=desc)
 
-- **Вроде в проде**
-	- Ссылки: [SoundCloud](https://soundcloud.com/vrode_v_prode), [YouTube](https://www.youtube.com/@vrode_v_prode/videos), [Twitter](https://twitter.com/vrode_v_prode), [Яндекс.Музыка](https://music.yandex.ru/album/19001255?activeTab=track-list&dir=desc)
+- **Вроде в проде** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/vrode_v_prode) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@vrode_v_prode/videos) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/vrode_v_prode) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/19001255?activeTab=track-list&dir=desc)
 
 - **Базовый Блок**
 	- Ссылки: [Сайт](https://basicblockradio.com), [YouTube](https://www.youtube.com/@basicblockradio8179), [Twitter](https://twitter.com/basicblockradio), [Telegram](https://t.me/basicblockradio), [Яндекс.Музыка](https://music.yandex.ru/album/7638583?dir=desc&activeTab=about)
