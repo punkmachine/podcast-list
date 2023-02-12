@@ -48,7 +48,7 @@
 
 - **SDCast:** [![Сайт](/icons/site.png "Сайт SDCast")](https://sdcast.ksdaemon.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@sdcast146) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/SDCast_podcast) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/6880277?activeTab=track-list)
 
-- **Разбор Полётов:** [![Сайт](/icons/site.png "Сайт Разбор Полётов")](https://razborpoletov.com/index.html) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/razbor_poletov) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/6880225?dir=desc&activeTab=about)
+- **Разбор Полётов:** [![Сайт](/icons/site.png "Сайт Разбор Полётов")](https://razborpoletov.com/index.html) [![GitHub](/icons/github.png "GitHub")](https://github.com/razbor-poletov) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/razbor_poletov) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/6880225?dir=desc&activeTab=about)
 
 - **Дизайн Прост:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/qpzw2utwzag6) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/8941958?dir=desc&activeTab=about)
 
