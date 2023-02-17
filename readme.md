@@ -74,12 +74,10 @@
 
 - **Дизайн такой:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7782689?dir=desc&activeTab=about)
 
-- **Moscow Python Podcast**
-	- Ссылки: [![Сайт](/icons/site.png "Сайт подкаста")](https://podcast.python.ru), [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLv_zOGKKxVph51u_AIswuXCasZ7aZD8t3)
+- **Moscow Python Podcast:** [![Сайт](/icons/site.png "Сайт подкаста")](https://podcast.python.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLv_zOGKKxVph51u_AIswuXCasZ7aZD8t3)
 
 
 
 
 
-<!-- - **Шаблон**
-	- Ссылки: [![SoundCloud](/icons/soundcloud.png "SoundCloud")](), [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
+<!-- - **Шаблон** [![SoundCloud](/icons/soundcloud.png "SoundCloud")]() [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
