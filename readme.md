@@ -74,6 +74,11 @@
 
 - **Дизайн такой:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7782689?dir=desc&activeTab=about)
 
+- **Moscow Python Podcast**
+	- Ссылки: [![Сайт](/icons/site.png "Сайт подкаста")](https://podcast.python.ru), [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLv_zOGKKxVph51u_AIswuXCasZ7aZD8t3)
+
+
+
 
 
 <!-- - **Шаблон**
