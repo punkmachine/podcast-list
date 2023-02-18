@@ -76,6 +76,9 @@
 
 - **Moscow Python Podcast:** [![Сайт](/icons/site.png "Сайт подкаста")](https://podcast.python.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLv_zOGKKxVph51u_AIswuXCasZ7aZD8t3)
 
+- **Шаблон** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLIKnOO-uIAJq27Zz7UTKyNTeFc7L9nyjo) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/22756068?dir=desc&activeTab=about)
+
+
 
 
 
