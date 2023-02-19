@@ -76,11 +76,18 @@
 
 - **Moscow Python Podcast:** [![Сайт](/icons/site.png "Сайт подкаста")](https://podcast.python.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLv_zOGKKxVph51u_AIswuXCasZ7aZD8t3)
 
-- **DevOne** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLIKnOO-uIAJq27Zz7UTKyNTeFc7L9nyjo) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/22756068?dir=desc&activeTab=about)
+- **DevOne:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLIKnOO-uIAJq27Zz7UTKyNTeFc7L9nyjo) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/22756068?dir=desc&activeTab=about)
+
+- **Go Get Podcast:** [![Сайт](/icons/site.png "Сайт подкаста")](https://gogetpodcast.ru) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLFAQFisfyqlU80MlWPiF_0VrWVV2X9vfR) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/21540938?dir=desc&activeTab=about)
+
+- **Немного IT:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@someit/featured)
+
+- **Hack me, если сможешь:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/16874846?dir=desc&activeTab=about)
+
+- **Доктор Кот:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLliXIZ4xbu1KHjfZS1BJXHgNe-WAy5Z9L) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/18513272?dir=desc&activeTab=about)
 
 
 
 
 
-
-<!-- - **Шаблон** [![SoundCloud](/icons/soundcloud.png "SoundCloud")]() [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
+<!-- - **Шаблон:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")]() [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
