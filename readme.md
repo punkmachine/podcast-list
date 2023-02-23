@@ -86,10 +86,12 @@
 
 - **Доктор Кот:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLliXIZ4xbu1KHjfZS1BJXHgNe-WAy5Z9L) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/18513272?dir=desc&activeTab=about)
 
+- **Это считается:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/24035967?activeTab=track-list)
+
+- **QAk-QAk — и в продакшен:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/18910064?activeTab=track-list)
 
 
 
-<!-- https://podcast.ru/1583088098, https://podcast.ru/1653976337, https://podcast.ru/1591500271 -->
 
 
 <!-- - **Шаблон:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")]() [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
