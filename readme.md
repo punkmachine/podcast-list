@@ -90,7 +90,7 @@
 
 - **QAk-QAk — и в продакшен:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/18910064?activeTab=track-list)
 
-
+- **TekTok Podcast:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DMqFejEN-iUpb3E4QZyRkpU)
 
 
 
