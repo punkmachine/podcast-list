@@ -4,6 +4,8 @@
 
 - **Веб-стандарты:** [![Сайт](/icons/site.png "Сайт web-standarts.ru")](https://web-standards.ru) [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/web-standards) [![GitHub](/icons/github.png "GitHub")](https://github.com/web-standards-ru/podcast) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@webstandards_ru) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/webstandards_ru)
 
+- **Инклюзивный ананас:** [![Сайт](/icons/site.png "Сайт Инклюзивного ананаса")](https://inclusivepineapple.github.io) [![GitHub](/icons/github.png "GitHub")](https://github.com/InclusivePineapple/) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@inclusivepineapple) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/inclusivepiney/) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/inclusivepineapple/)
+
 - **Frontend Weekend:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/frontend-weekend) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@frontendweekend) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/frontendweekend)
 
 - **Podlodka:** [![Сайт](/icons/site.png "Сайт Podlodka")](https://podlodka.io) [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/podlodka) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/PodlodkaShow) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/podlodkapodcast) [![Telegram](/icons/telegram.png "Telegram")](https://t.me/podlodkanews) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7570122?dir=desc&activeTab=about)
