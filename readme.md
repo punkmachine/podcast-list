@@ -14,6 +14,8 @@
 
 - **Шорткод:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/11022487?dir=desc&activeTab=about)
 
+- **Про код:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLQJNT2fdCJnhzcfnl_WpmMzYwSM6H0HJw) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/25474374?dir=desc&activeTab=about)
+
 - **IT-шниками не рождаются:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLBRXq5LaddfwwN7IUgdIBIwV4ix4Cs5Ms)
 
 - **Как делают игры:** [![Сайт](/icons/site.png "Сайт Как делают игры")](https://kdicast.com) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/c/kdicast) [![Twitter](/icons/twitter.png "Twitter")](https://twitter.com/kdicast)
