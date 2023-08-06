@@ -36,6 +36,8 @@
 
 - **Форточку открой:** [![Сайт](/icons/site.png "Сайт Форточку открой")](https://ufostation.tech/ru/podcast/) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/23340787?activeTab=track-list&dir=desc)
 
+- **Техно.Логично:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLaYnZrqLPO2lm8ql3g0eFwPlHisRev-rP)
+
 - **Machine Learning Podcast:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/@machinelearningpodcast9502) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/9781458?dir=desc&activeTab=about)
 
 - **Для tech и этих:** [![Сайт](/icons/site.png "Сайт Для tech и этих")](https://forthoseandthose.fireside.fm) [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLOLysiZ_IMc0SXiyLK_fRETYNCR3uN05h) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/22481935?activeTab=track-list&dir=desc)
