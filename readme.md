@@ -98,6 +98,6 @@
 
 - **TekTok Podcast:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DMqFejEN-iUpb3E4QZyRkpU)
 
-
+- **Koda Koda:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.com/album/13732143?dir=desc&activeTab=about)
 
 <!-- - **Шаблон:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")]() [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
