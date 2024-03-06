@@ -80,6 +80,10 @@
 
 - **Koda Koda:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.com/album/13732143?dir=desc&activeTab=about)
 
+- **КиберДуршлаг:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PL-PDZMPQHOz_Dfyrs_T4X3r7YZ4gTNYtc)
+
+- **SREды по средам:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLtRFPaw3fD569gnYxHW67MhxUotim2oaF)
+
 ## Нет новых выпусков продолжительное время
 
 - **Хабр Подкасты:** [![Сайт](/icons/site.png "Сайт Хабр Подкасты")](https://podcast.habr.com) [![SoundCloud](/icons/soundcloud.png "SoundCloud")](https://soundcloud.com/habr-weekly) [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/7600069?dir=desc&activeTab=about) [![Podcastly](/icons/podcastly.png "Podcastly")](https://pdcstly.com/ru/podcast/habr-podkasty/890)
@@ -101,9 +105,5 @@
 - **Hack me, если сможешь:** [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")](https://music.yandex.ru/album/16874846?dir=desc&activeTab=about)
 
 - **TekTok Podcast:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DMqFejEN-iUpb3E4QZyRkpU)
-
-- **КиберДуршлаг:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PL-PDZMPQHOz_Dfyrs_T4X3r7YZ4gTNYtc)
-
-- **SREды по средам:** [![YouTube](/icons/youtube.png "YouTube")](https://www.youtube.com/playlist?list=PLtRFPaw3fD569gnYxHW67MhxUotim2oaF)
 
 <!-- - **Шаблон:** [![SoundCloud](/icons/soundcloud.png "SoundCloud")]() [![Сайт](/icons/site.png "Сайт подкаста")]() [![GitHub](/icons/github.png "GitHub")]() [![YouTube](/icons/youtube.png "YouTube")]() [![Twitter](/icons/twitter.png "Twitter")]() [![Telegram](/icons/telegram.png "Telegram")]() [![Яндекс.Музыка](/icons/yandex-music.png "Yandex Music")]() [![Podcastly](icons/podcastly.png "Podcastly")]() -->
